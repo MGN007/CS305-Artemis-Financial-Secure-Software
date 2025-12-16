@@ -7,7 +7,7 @@ The client for this project was Artemis Financial, a financial services company 
 
 What I did well and the importance of secure coding
 
-I did well at applying secure coding techniques to enhance the application without breaking existing functionality. This included implementing SHA-256 hashing to verify data integrity and configuring HTTPS using SSL/TLS. Secure coding is important because it helps protect sensitive information, reduces the risk of cyberattacks, and prevents vulnerabilities that could lead to data breaches. Strong software security adds value to a company by increasing customer trust and reducing long-term financial and legal risk.
+One area I felt confident in was applying secure coding techniques to enhance the application without breaking existing functionality. This included implementing SHA-256 hashing to verify data integrity and configuring HTTPS using SSL/TLS. Secure coding is important because it helps protect sensitive information, reduces the risk of cyberattacks, and prevents vulnerabilities that could lead to data breaches. Strong software security adds value to a company by increasing customer trust and reducing long-term financial and legal risk.
 
 Challenging and helpful aspects of the project
 
@@ -19,7 +19,7 @@ I increased layers of security by implementing encryption for secure communicati
 
 Ensuring functionality and security after refactoring
 
-After refactoring the application, I verified that it was still functional by building and running the program successfully and confirming that expected outputs were produced. To ensure that no new vulnerabilities were introduced, I re-ran dependency scans and reviewed configuration settings related to encryption and security. This step was important to confirm that security improvements did not negatively impact application behavior.
+After refactoring the application, I confirmed it was still functional by building and running the program successfully and confirming that expected outputs were produced. To ensure that no new vulnerabilities were introduced, I re-ran dependency scans and reviewed configuration settings related to encryption and security. This step was important to confirm that security improvements did not negatively impact application behavior.
 
 Resources, tools, and practices for future use
 
